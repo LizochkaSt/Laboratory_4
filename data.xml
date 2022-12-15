@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    
+
+    
+
+    <item id="3">
+        <name>Kecubung Plants</name>
+        <cost>IDR 87.000</cost>
+        <photo>images/kecubung_plants1.png</photo>
+    </item>
+
+    
+
+    
+<item id="4"><name>Orange flower</name><cost>IDR 35.000</cost><img>https://mobimg.b-cdn.net/v3/fetch/f9/f94ea96734e0d9b346da3e4e866b601d.jpeg</img></item></root>
